@@ -1,18 +1,32 @@
-<h2> Hello welcome <<i>coders</i>></h2>
+<div align="center">
+  <h3>Coming Soon🤘🏻🔥</h3>
+  <p align="center">
+    <a target="_blank" href="https://medium.com/@omidnikrah">Medium</a> •
+    <a target="_blank" href="https://stackoverflow.com/users/6558042/omid-nikrah">Stack Overflow</a> •
+    <a target="_blank" href="https://www.linkedin.com/in/omidnikrah/">Linkedin</a> •
+    <a target="_blank" href="https://twitter.com/omidnikrah">Twitter</a>
+  </p>
+  <br />
+  <br />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=omidnikrah&show_icons=true&line_height=45&theme=dracula&include_all_commits=true"  alt=""/>
+  <img src="https://github-readme-stackoverflow.vercel.app/?userID=6558042"  alt=""/>
+  <br />
+  <br />
+  <br />
+  <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png"  alt=""/>
+</div>
 
-<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"' alt="">
+## My Latest Medium Articles
 
-[![mail](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:suyash.srivastava14@gmail.com)
+<a href="https://medium.com/@omidnikrah">
+  <img src="https://github-readme-medium.vercel.app/?username=omidnikrah&limit=2"  alt=""/>
+</a>
 
-哈喽，你好，我是假装。
+### Tools
 
-## 💻 项目
-* 
-
-## ⚡ 关于
-- 
-
-## 👋 联系我
-- 💬 问我任何事情。
-- 🖼️ 作品集网站: [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
-- 💎 有趣的事实：如果你不尝试，你已经输了。
+[GitHub Readme StackOverflow](https://github.com/omidnikrah/github-readme-stackoverflow)
+<br />
+[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+<br />
+[GitHub Readme Medium](https://github.com/omidnikrah/github-readme-medium)
