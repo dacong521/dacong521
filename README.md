@@ -1,32 +1,28 @@
-<h1 align="center"> 🤩 hello, i'm Dahezhiquan 🤩 </h1>
-<h3 align="center">🚀 fullstack devlover 🚀</h3>
+<h2> Hello welcome <<i>coders</i>></h2>
 
-### 💻 my favorite stack:
+<img align='right' src='http://www.jenyalestina.com/blog/wp-content/uploads/2019/05/web-development-1024x582.jpg' width='300"' alt="">
 
-- React Native ❤
-- ReactJS & Styled-Components
-- NodeJS & Express
-- A little PHP
-- HTML & CSS
+[![Linkedin Badge](https://img.shields.io/badge/-Lindkeden-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suyash-srivastava-458b0117)](https://www.linkedin.com/in/suyash-srivastava-458b01173)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.srivastava14@gmail.com)](mailto:suyash.srivastava14@gmail.com)
 
-### 👧 a little about myself:
+I am Suyash. I am from Vellore,Tamil Nadu and currently doing my B.Tech from Vellore Institute of Technology 🏫.I love to do web development and open to learning new technologies.
 
-- I'm 20 years old., and I live in Ceará, BR.
-- I study information systems in Faculdade de Juazeiro do Norte.
-- I'm a little too addicted to coffee.
+## 💻 Projects
+* [COVID 19 TRACKER (Graph Display and Clickable Globe UI)](https://suyash-srivastava.github.io/suyashsrivastava/COVID19)
+* [Weather App (from OpenWeather API)](https://suyash-srivastava.github.io/suyashsrivastava/Weather)
+* [Notes App](https://suyash-srivastava.github.io/suyashsrivastava/Notes)
+* [Website for NGO (In Development Phase)](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
+* [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
 
-<h1 align="center">
-✨ where you can find me ✨
+## ⚡ Technologies
+- Front-end development using **HTML, Javascript,CSS,Bootstrap**
+- Backend development using **SQL,PHP**
+- Worked with **Active Directories**
+- Leaning Web Design with Figma
+- Android app development using **Android Studio**(Still learning)
+- Solving Data structure and algorithm questions in **Java**
 
-  <p align="center"><br/>
-   <a href="https://www.linkedin.com/in/erika-lopes/">
-    <img src="https://img.shields.io/badge/linkedin-erika--lopes-blue" alt="">
-  </a>
-
-  <a href="https://www.instagram.com/erika.cafezin/">
-    <img src="https://img.shields.io/badge/instagram-erika.cafezin-red" alt="">
-  </a>
-</p>
-</h1>
-
-<h3 align="center"><strong> feel free to look at my experiment lab. ❤ </strong> </h3>
+## 👋 Reach out to me
+- 💬 Ask me about anything.
+- 🖼️ Portfolio site: [Portfolio](https://suyash-srivastava.github.io/suyashsrivastava/Suyash)
+- 💎 Fun fact: You lose automatically if you dont try.
