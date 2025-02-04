@@ -14,7 +14,7 @@
   <br />
   <br />
   <br />
-  <img src="https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png"  alt=""/>
+  <img src="[https://raw.githubusercontent.com/omidnikrah/omidnikrah/master/activity-profile.png](https://s21.ax1x.com/2024/09/23/pAQA0oR.jpg)"  alt=""/>
 </div>
 
 ## My Latest Medium Articles
